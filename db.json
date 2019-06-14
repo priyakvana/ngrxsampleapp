@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "customers": [
+    {
+      "name": "John Doe",
+      "phone": "9090909090",
+      "address": "123 Sun Street",
+      "membership": "Platinium",
+      "id": 1
+    },
+    {
+      "name": "Mary Johnson",
+      "phone": "9090980808",
+      "address": "893 Main Voulevard",
+      "membership": "Pro",
+      "id": 2
+    },
+    {
+      "name": "priya",
+      "phone": "9090909009",
+      "address": "madhapureps",
+      "membership": "Basic",
+      "id": 3
+    },
+    {
+      "name": "kvana",
+      "phone": "12345677",
+      "address": "harshahomes flat 302",
+      "membership": "Pro",
+      "id": 4
+    }
+  ]
+}
